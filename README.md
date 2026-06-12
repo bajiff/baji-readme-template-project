@@ -30,6 +30,7 @@
   - [:star2: Credit/Acknowledgment](#star2-creditacknowledgment)
   - [:lock: License](#lock-license)
   - [:social: My Social Media](#social-my-social-media)
+  - [:contact: Contact](#contact-contact)
 
 ## :beginner: About
 
@@ -185,3 +186,7 @@ Add a license here, or a link to it.
 ## :social: My Social Media
 
 Add your social media links here.
+
+## :contact: Contact
+
+Contact me here: [EMAIL_ADDRESS]
