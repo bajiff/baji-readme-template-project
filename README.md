@@ -26,6 +26,7 @@
   - [:camera: Gallery](#camera-gallery)
   - [:star2: Credit/Acknowledgment](#star2-creditacknowledgment)
   - [:lock: License](#lock-license)
+  - [:social: My Social Media](#social-my-social-media)
 
 ##  :beginner: About
 Add a detailed introduction about the project here, everything you want the reader to know.
@@ -60,7 +61,7 @@ Write about setting up the working environment for your project.
 
 ###  :file_folder: File Structure
 Add a file structure here with the basic details about files, below is an example.
-
+Just make it more complete.
 ```bash
 .
 ├── assets
@@ -81,7 +82,10 @@ Add a file structure here with the basic details about files, below is an exampl
 ├── .gitignore
 ├── index.html
 └── README.md
+
 ```
+
+Just make it more complete.
 
 | No | File Name | Details 
 |----|------------|-------|
@@ -155,3 +159,6 @@ Credit the authors here.
 
 ##  :lock: License
 Add a license here, or a link to it.
+
+## :social: My Social Media
+Add your social media links here.
